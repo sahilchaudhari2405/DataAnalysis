@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "629976603789",
+    "project_id": "charts-f7af8",
+    "storage_bucket": "charts-f7af8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:629976603789:android:b1e770991b3ffcabca56c4",
+        "android_client_info": {
+          "package_name": "com.sahil.dataanalysis"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "629976603789-db2bqd7fk3mek4sro8dd14n78tigut9e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7gMggguW5ulkmEjIG-d06TyuZFrKd5gk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "629976603789-db2bqd7fk3mek4sro8dd14n78tigut9e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
